@@ -1,0 +1,8 @@
+print ('      __     __ ')
+print('     /  \\^^^/  \\')
+print(',---(  ( .. )   )')
+print('/    \\_      __/')
+print('       ( \\  |( ')
+print('^ \\ /___  \\ |  ')
+print(' |__| |__|')
+print('Fox Thorson')
